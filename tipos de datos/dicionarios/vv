@@ -1,0 +1,23 @@
+
+
+
+
++-------------------------+-------------------------------------------------------------------------------------+
+|    Métodos de cadenas:  | Realizan operaciones como convertir texto a mayúsculas (upper()), minúsculas         |
+|                         | (lower()), eliminar espacios en blanco al principio y al final (strip()), y dividir   |
+|                         | una cadena en partes (split()).                                                      |
++-------------------------+-------------------------------------------------------------------------------------+
+|    Métodos de listas:   | Permiten agregar elementos al final de una lista (append()), eliminar elementos de    |
+|                         | una lista (remove()), y ordenar los elementos de una lista (sort()).                  |
++-------------------------+-------------------------------------------------------------------------------------+
+|    Métodos de diccionarios:| Proporcionan acceso a las claves (keys()), valores (values()), y pares clave-valor |
+|                         | (items()) de un diccionario.                                                          |
++-------------------------+-------------------------------------------------------------------------------------+
+|    Métodos de conjuntos:| Permiten agregar elementos a un conjunto (add()), eliminar elementos de un conjunto   |
+|                         | (remove()), y realizar operaciones como unión (union()) e intersección                |
+|                         | (intersection()) entre conjuntos.                                                    |
++-------------------------+-------------------------------------------------------------------------------------+
+|    Métodos de archivos: | Se utilizan para abrir (open()), leer (read()), y escribir (write()) en archivos,     |
+|                         | así como para realizar operaciones de posicionamiento (seek()) y obtener la          |
+|                         | posición actual (tell()).                                                              |
++-------------------------+-------------------------------------------------------------------------------------+
